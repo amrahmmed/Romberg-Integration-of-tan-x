@@ -1,4 +1,4 @@
-##Romberg Integration in MATLAB
+Romberg Integration in MATLAB
 
 This repository contains a fully implemented, rigorously structured, and professionally documented MATLAB program for performing Romberg Numerical Integration using Richardson extrapolation. The project demonstrates advanced numerical analysis techniques while maintaining clean, readable, and reproducible scientific code.
 
