@@ -148,26 +148,5 @@ romberg_tan
 
 
 
----
-
-📄 License
-
-This project is distributed under the MIT License.
 
 
----
-
-If you’d like, I can also:
-
-Add a Contributing Guide
-
-Add a Project Structure section
-
-Add Badges (version, license, language)
-
-Add a Mathematical Derivation section
-
-Add sample output images
-
-
-Just tell me!
